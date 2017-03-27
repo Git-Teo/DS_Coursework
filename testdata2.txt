@@ -1,0 +1,11 @@
+5
+659
+989
+24
+140
+704
+insert 24
+insert 659
+locate 24
+delete 24
+delete 999
